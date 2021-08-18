@@ -17,4 +17,4 @@ Collection of fancy React Hooks ready to install with NPM
 | useFullscreen   | Make any element go Fullscreen                            | [Documentation](https://github.com/jnwnlee/hooks/tree/master/useFullScreen)   |
 
 ### Acknowledgement
-Thanks to https://nomadcoders.co
+Thanks to https://github.com/nomadcoders/nooks
